@@ -18,7 +18,8 @@
 ## 🚀 배포 링크
 
 **👉 [https://www.doodoostock.com/](https://www.doodoostock.com/)**
-
+<img width="1285" height="742" alt="Image" src="https://github.com/user-attachments/assets/f8dd1852-0204-4378-8a07-17e38655dfce" />
+<img width="1257" height="762" alt="Image" src="https://github.com/user-attachments/assets/ec8c28c0-cd07-4b0b-aab1-1504f9041cac" />
 ---
 
 ## 🛠️ 기술 스택
